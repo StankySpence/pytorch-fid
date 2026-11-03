@@ -50,6 +50,6 @@ if __name__ == "__main__":
             "torchvision>=0.2.2",
         ],
         extras_require={
-            "dev": ["flake8", "flake8-bugbear", "flake8-isort", "black==24.3.0", "nox"]
+            "dev": ["flake8", "flake8-bugbear", "flake8-isort", "black==26.10.1", "nox"]
         },
     )
